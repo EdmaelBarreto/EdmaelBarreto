@@ -2,7 +2,7 @@
 
 > Software Development Student @ SENAC | Residente Tecnológico @ Porto Digital
 
-📍 Recife, PE · 📧 [E-mail](edmael_barreto@hotmail.com)
+📍 Recife, PE
 🔗 [LinkedIn](https://www.linkedin.com/in/edmaelpauloribeirobarreto) 🐙 [GitHub](https://github.com/EdmaelBarreto)  
 
 ---
