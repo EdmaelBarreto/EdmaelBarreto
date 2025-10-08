@@ -67,6 +67,7 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/EdmaelBarreto)
 
 ![Edmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmaelBarreto&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmaelBarreto&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -76,6 +77,7 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> 
  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+
 
 ---
 
