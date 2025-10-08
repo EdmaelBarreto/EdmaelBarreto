@@ -32,10 +32,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com formação em **
 ### Sistema de Controle de Ponto Inteligente  
 - **Parceria:** Rise Up / SiDi Recife & Porto Digital  
 - **Descrição:** Desenvolvimento e documentação do sistema com foco em usabilidade e segurança.  
-- **Tecnologias usadas:** ((React.js – Biblioteca JavaScript para construção da interface
-JavaScript (ES6+) – Linguagem principal da aplicação
-CSS3 – Estilização da interface
-HTML5 – Estrutura base da aplicação
+- **Tecnologias usadas:** ((React.js – Biblioteca JavaScript para construção da interface,
+JavaScript (ES6+) – Linguagem principal da aplicação,
+CSS3 – Estilização da interface,
+HTML5 – Estrutura base da aplicação,
 Font Awesome – Biblioteca de ícones)  
 - **Link:** _[https://lnkd.in/d-Uv_q8U]_   
 
