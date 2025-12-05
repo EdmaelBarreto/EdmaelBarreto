@@ -66,8 +66,6 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edmael_barreto/)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/EdmaelBarreto)
 
-![Edmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmaelBarreto&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmaelBarreto&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
