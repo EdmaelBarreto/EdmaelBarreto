@@ -7,75 +7,122 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com formação em **Secretariado Executivo**. Tenho sólida experiência na área administrativa, sobretudo em mapeamento e documentação de processos, implantação de operações e suporte institucional. Atualmente, direciono minha carreira para QA, testes e desenvolvimento de software, com foco em automação, qualidade, análise de requisitos e colaboração em equipes ágeis.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-| Categoria | Tecnologias / Ferramentas |
-|----------|----------------------------|
-| QA / Testes | Testes manuais, automação de testes |
-| Desenvolvimento | JavaScript, Java |
-| Banco de Dados | MySQL, PostgreSQL |
-| Ferramentas de Gestão | Jira, Trello, Notion |
-| Ambiente de Trabalho | Google Workspace, Pacote Office |
-| Práticas | Scrum, Kanban, boas práticas de desenvolvimento |
-| Idiomas | Inglês (Intermediário) |
-
----
-
-## 📂 Projetos em destaque
-
-### Sistema de Controle de Ponto Inteligente  
-- **Parceria:** Rise Up / SiDi Recife & Porto Digital  
-- **Descrição:** Desenvolvimento e documentação do sistema com foco em usabilidade e segurança.  
-- **Tecnologias usadas:** ((React.js – Biblioteca JavaScript para construção da interface,
-JavaScript (ES6+) – Linguagem principal da aplicação,
-CSS3 – Estilização da interface,
-HTML5 – Estrutura base da aplicação,
-Font Awesome – Biblioteca de ícones)  
-- **Link:** _[https://lnkd.in/d-Uv_q8U]_   
-
-### Aplicativo para Eventos Culturais  
-- **Parceria:** KickOff / Porto Digital  
-- **Descrição:** App colaborativo para otimizar a experiência dos usuários em eventos culturais.  
-
----
-
-## 💼 Experiência profissional resumida
-
-- **Trainee – Residente Tecnológico | Porto Digital**  
-  Desenvolvimento de soluções integradas com IA, CRM, ERP e BI.  
-- **Estagiário Financeiro & Implantação | SpeedMais**  
-  Atuação em documentação de processos, controle financeiro e apoio à operação.  
-- **Estagiário Administrativo / Secretariado | TRE-PE, TRT6 e UFPE**  
-  Produção de documentos oficiais, mapeamento de processos, eventos institucional e atendimento interno/externo.  
-
----
-
-## 🎯 Objetivo
+## 🎯 Objetivo Profissional
 
 Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, aplicando técnicas de automação, boas práticas de código e análise de requisitos para garantir a entrega de produtos de alta qualidade e performance.
- 
+
+---
+
+## 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas — SENAC PE**
+📅 2024.2 – 2026.2 (em andamento)
+
+**Bacharelado em Secretariado Executivo — UFPE**
+📅 2020.1 – 2024.2
+
+---
+
+## 📚 Cursos Complementares
+
+* Engenharia de Qualidade de Software — FAST Aceleração (CESAR School) *(em andamento)*
+* Bootcamp Java & QA Developer — DIO *(em andamento)*
+* CI/CD com GitHub — Porto Digital
+* Introdução à Área de Dados — Porto Digital
+* Design Sprint — ENAP
+
+---
+
+## 💻 Projetos
+
+### **Saúde Positiva — Porto Digital**
+
+Documentação técnica, análise de fluxo e testes.
+**Stack:** React, TypeScript, Node.js, PostgreSQL, Docker
+🚀 [https://encurtador.com.br/Zkhm](https://encurtador.com.br/Zkhm)
+
+### **CheckPoint — SiDi Recife**
+
+Mapeamento de processos, testes e documentação.
+**Stack:** React.js, JavaScript, HTML, CSS
+🚀 [https://encurtador.com.br/MTGV](https://encurtador.com.br/MTGV)
+
+### **SIRENE — SENAC PE / Corpo de Bombeiros**
+
+Documentação, testes funcionais e análise de fluxo.
+**Stack:** React + Vite, Node.js, TypeScript, MongoDB
+🚀 [https://sirene-corpodebombeiro.netlify.app/](https://sirene-corpodebombeiro.netlify.app/)
+
+### **ECONECT — SENAC PE**
+
+Requisitos, prototipação e documentação.
+**Ferramentas:** Figma, Miro, Trello
+🚀 [https://encurtador.com.br/cfdV](https://encurtador.com.br/cfdV)
+
+### **FESTIVA — Porto Digital**
+
+Prototipação e análise de requisitos.
+🚀 [https://encurtador.com.br/Tsrx](https://encurtador.com.br/Tsrx)
+
+---
+
+## 💼 Experiência
+
+### **SpeedMais — Estagiário (Implantação/Planejamento)**
+
+📅 Nov/2024 – Jul/2025
+
+* Documentação técnica, POPs e fluxogramas
+* Apoio na implantação de sistemas
+* Análise de métricas e melhoria contínua
+
+### **TRE-PE — Estagiário (Ouvidoria)**
+
+📅 Fev/2023 – Nov/2024
+
+* Apoio à gestão de projetos
+* Relatórios, planilhas e indicadores
+* Mapeamento de processos
+
+### **TRT6 — Estagiário (Sustentabilidade e Acessibilidade)**
+
+📅 Abr/2022 – Fev/2023
+
+* Documentação e relatórios
+* Acompanhamento de indicadores
+
+### **UFPE — Bolsista (Pesquisa e Inovação)**
+
+📅 Set/2020 – Ago/2023
+
+* Atendimento acadêmico
+* Emissão de certificados e relatórios
+* Apoio em eventos institucionais
+
+---
+
+## 🛠️ Habilidades
+
+**QA & Testes:**
+Testes funcionais e exploratórios, casos de teste, report de bugs, noções de automação (Cypress), CI/CD.
+
+**Análise & Sistemas:**
+Requisitos, modelagem de dados (DER), mapeamento de processos.
+
+**Tecnologias:**
+Java • JavaScript • SQL/MySQL
+
+**Ferramentas:**
+GitHub • VSCode • Jira • Trello • Figma • Miro • MySQL
+
+**Idiomas:**
+Inglês — Intermediário
+
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmaelpauloribeirobarreto/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edmael_barreto/)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/EdmaelBarreto)
-
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
- <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> 
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
- <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
- <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> 
- <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-
 
 ---
 
