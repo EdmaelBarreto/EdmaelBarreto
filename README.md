@@ -1,9 +1,9 @@
-## Olá! Eu sou Edmael Barreto 👋
+## Olá! Eu sou Edmael Barretto 👋
 
 > Software Development Student @ SENAC | Residente Tecnológico @ Porto Digital
 
 📍 Recife, PE
-🔗 [LinkedIn](https://www.linkedin.com/in/edmaelpauloribeirobarreto) 🐙 [GitHub](https://github.com/EdmaelBarreto)  
+🔗 [LinkedIn](https://www.linkedin.com/in/edmaelbarretto) 🐙 [GitHub](https://github.com/EdmaelBarretto)  
 
 ---
 
@@ -25,8 +25,9 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 
 ## 📚 Cursos Complementares
 
-* Engenharia de Qualidade de Software — FAST Aceleração (CESAR School) *(em andamento)*
-* Bootcamp Java & QA Developer — DIO *(em andamento)*
+* Engenharia de Qualidade de Software — FAST Aceleração (CESAR School)
+* Accenture - Desenvolvimento Java & Cloud (Em andamento)
+* Bootcamp Java & QA Developer — DIO 
 * CI/CD com GitHub — Porto Digital
 * Introdução à Área de Dados — Porto Digital
 * Design Sprint — ENAP
@@ -120,8 +121,8 @@ Inglês — Intermediário
 
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmaelpauloribeirobarreto/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edmael_barreto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmaelbarretto/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edmael_barretto/)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/EdmaelBarreto)
 
 ---
