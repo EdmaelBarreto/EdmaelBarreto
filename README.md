@@ -26,8 +26,8 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 ## 📚 Cursos Complementares
 
 * Engenharia de Qualidade de Software — FAST Aceleração (CESAR School)
-* Accenture - Desenvolvimento Java & Cloud (Em andamento)
-* Bootcamp Java & QA Developer — DIO 
+* Bootcamp Accenture - Desenvolvimento Java & Cloud — DIO (Em andamento)
+* Bootcamp Bradesco Java & QA Developer — DIO 
 * CI/CD com GitHub — Porto Digital
 * Introdução à Área de Dados — Porto Digital
 * Design Sprint — ENAP
