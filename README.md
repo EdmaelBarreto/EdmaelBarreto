@@ -27,10 +27,10 @@ Desenvolver minha carreira em **QA, testes e desenvolvimento de software**, apli
 
 * Engenharia de Qualidade de Software — FAST Aceleração (CESAR School)
 * Bootcamp Accenture - Desenvolvimento Java & Cloud — DIO (Em andamento)
-* Bootcamp Bradesco Java & QA Developer — DIO 
-* CI/CD com GitHub — Porto Digital
+* Bootcamp Bradesco - Java & QA Developer — DIO 
+* CI/CD com GitHub - Porto Digital
 * Introdução à Área de Dados — Porto Digital
-* Design Sprint — ENAP
+* Design Sprint - ENAP
 
 ---
 
